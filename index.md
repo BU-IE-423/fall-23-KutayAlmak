@@ -15,11 +15,10 @@
 
 
 
-* [Project Part 1](IE423 - Project Part 1 (1) (1) (1) (1) (1).html): PDF Example 2
+* [Project Part 1 - html](IE423 - Project Part 1 (1) (1) (1) (1) (1).html)
   
 * [Project Part 1 .py:](IE423 - Project Part 1 (1) (1).py)
 
-## https://github.com/BU-IE-423/fall-23-KutayAlmak/blob/main/IE423%20-%20Project%20Part%201%20(1)%20(1)%20(1)%20(1)%20(1).html
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />

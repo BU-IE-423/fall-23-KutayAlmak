@@ -1,4 +1,24 @@
 ## WELCOME TO MUSTAFA KUTAY ALMAK'S IE423 JOURNAL, HAVE A GREAT TIME HERE!!!!
+
+📕 This page is created for IE 423
+
+
+### Some feature trials below
+
+🤓 *This is a bold text*
+
+👾 This is an italic text
+
+↘️ This is a <sub>subscript</sub> text
+
+↗️ This is a <sup>superscript</sup> text
+
+
+
+* [Project Part 1](IE423 - Project Part 1 (1) (1) (1) (1) (1).html): PDF Example 2
+  
+* [Project Part 1 .py:](IE423 - Project Part 1 (1) (1).py)
+
 ## https://github.com/BU-IE-423/fall-23-KutayAlmak/blob/main/IE423%20-%20Project%20Part%201%20(1)%20(1)%20(1)%20(1)%20(1).html
 <!DOCTYPE html>
 <html>

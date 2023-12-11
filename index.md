@@ -20,8 +20,9 @@
 * [Project Part 1 .py:](IE423 - Project Part 1 (1) (1).py)
 
 * [IE423 - Project Part 2.html](IE423 - Project Part 2.html)
+* [IE423 - Project Part 2.ipynb](IE423 - Project Part 2.ipynb)
 
-IE423 - Project Part 2.html
+  
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
